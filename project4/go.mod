@@ -1,4 +1,4 @@
-module GoTutorial
+module example.com/project4
 
 go 1.25.0
 
